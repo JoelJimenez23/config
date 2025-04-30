@@ -9,13 +9,15 @@ require("lazy").setup({
     require("plugins.mason"),
     require("plugins.treesitter"),
 		require("plugins.nightfox"),
-		require("plugins.neoscroll")
+		require("plugins.neoscroll"),
+		require("plugins.csvview")
 })
 
 require("keybinds.nvimtreek")
 require("keybinds.barbark")
 require("keybinds.themeryk")
 -- require("keybinds.tmuxk")
+require("keybinds.csvview")
 
 require("settings.settings")
 -- require("config.masonc")

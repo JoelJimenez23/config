@@ -15,3 +15,5 @@ g.loaded_netrwPlugin = 1
 
 
 opt.fillchars = { eob = " " }
+
+
